@@ -1,0 +1,5 @@
+console.log(typeof _firstName)
+console.log(typeof count)
+console.log(typeof IsDeleted)
+console.log(typeof city)
+console.log(typeof money)
